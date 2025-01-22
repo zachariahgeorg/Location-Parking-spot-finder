@@ -1,0 +1,3 @@
+# Tkinter explained
+I have used the tkinter module for creating the login page with images and error messages if a wrong user id or password has been inputted. For another user to use this same tkinter code you have to save the code and any four images of your choice into the same file and replace the file path from my code with your own file path and keep in mind the type of image it is .
+I have adjusted the size of the tkinter message box according to my preferences you can adjust it to your liking by simply changing the values in the login.frame.place, logolbl.grid, etc you can check the code. You can also change the font, image size all of the above in the same thread.
